@@ -1,5 +1,5 @@
 # BUPT_SCSS_undergraduate_courses
-北邮网络空间安全学院本科生课程资料
+北邮网络空间安全学院 - 网安专业 - 本科生课程资料
 
 博客：https://www.cnblogs.com/smoothwater
 
